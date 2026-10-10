@@ -53,5 +53,8 @@
 ||github.io
 ||githubusercontent.com
 ||githubassets.com
+||x.com
+||googleadservices.com
+||tiktok
 /^https?:\/\/[^\/]*openai[^\/]*(?:[\/:?#]|$)/
 /^https?:\/\/[^\/]*alkalimakersuite-pa\.clients6\.google\.com[^\/]*(?:[\/:?#]|$)/
